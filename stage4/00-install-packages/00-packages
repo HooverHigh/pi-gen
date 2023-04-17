@@ -25,3 +25,4 @@ ffmpeg
 vlc
 rpi-imager
 rpi-wayland
+python3-vlc
